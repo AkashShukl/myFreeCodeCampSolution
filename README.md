@@ -1,4 +1,4 @@
-# Free Code Camo Solutions
+# FCC myu Solutions
 free code camp certifications prjects
 
 FreeCodeCampProjects
